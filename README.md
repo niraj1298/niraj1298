@@ -1,4 +1,4 @@
-<h1 align="center">Hey There👋, Niraj!</h1>
+<h1 align="center">Hey There👋, I'm Niraj!</h1>
 <h3 align="center">Aspiring SWE with interests in AI, and Cyber Security.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niraj1298&label=Profile%20views&color=0e75b6&style=flat" alt="niraj1298" /> </p>

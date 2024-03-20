@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since middle school.<br>📚 I'm currently learning Full Stack Development.<br>🎯 Goals: Becoming a SWE.<br>🎲 Fun fact: I teach karate!</p>
+<p align="left">✨ Creating bugs since middle school.<br>📚 I'm currently learning Full Stack Development.<br>🎯 Goals: Building a software based business. <br>🎲 Fun fact: I teach karate!</p>
 
 ###
 

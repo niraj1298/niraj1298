@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">My name is Niraj Nepal an aspiring SWE with interests in AI, and Cyber Security. and I'm a graduating senior from Duquesne University.</h2>
+<h2 align="center">My name is Niraj Nepal an aspiring SWE with interests in AI, and Cyber Security.</h2>
 
 ###
 

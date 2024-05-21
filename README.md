@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since middle school.<br>📚 I'm currently learning Full Stack Development.<br>🎯 Goals: Building a software based business. <br>🎲 Fun fact: I teach karate!</p>
+<p align="left">✨ Creating bugs since middle school.<br>📚 I'm currently spearheading development of a ML/AI Product that helps reduce food wastage and save money for commerical cafeterias.<br>🎯 Goals: Building a software based business. <br>🎲 Fun fact: I teach karate!</p>
 
 ###
 
